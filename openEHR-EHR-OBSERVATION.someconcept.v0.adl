@@ -23,8 +23,8 @@ description
 		["original_namespace"] = <"org.openehr">
 		["original_publisher"] = <"openEHR Foundation">
 		["custodian_namespace"] = <"org.openehr">
-		["build_uid"] = <"706d182b-b50c-3e46-a221-a3da5d6bcb48">
 		["MD5-CAM-1.0.1"] = <"377dd384018bf3997e2bd33ad5070096">
+		["build_uid"] = <"706d182b-b50c-3e46-a221-a3da5d6bcb48">
 	>
 
 definition
